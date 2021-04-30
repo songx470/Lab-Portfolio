@@ -10,8 +10,14 @@ body html{
   border-style:solid;
   width:1460px;
   height:810px;
-  margin-top:-30px;
+  margin-top:-47px;
   margin-left:-20px;
+  cursor: url(1.cur), auto;
+
+}
+
+a{
+   cursor: url(1.cur), auto;
 }
 
 .secondpage img{
@@ -21,6 +27,7 @@ body html{
   height:730px;
   margin-top:-10px;
   margin-left:-20px;
+  cursor: url(1.cur), auto;
 }
 
 #projectname{
@@ -73,6 +80,7 @@ img {vertical-align: middle;}
   border-width:1px;
   border-style:solid;
   margin-bottom:10px;
+  cursor: url(1.cur), auto;
 }
 
 .prev, .next {
@@ -157,6 +165,7 @@ img {vertical-align: middle;}
   margin-left:70px;
   display:flex;
   margin-top:80px;
+  cursor: url(1.cur), auto;
 }
 
 .left img{
